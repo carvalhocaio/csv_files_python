@@ -32,3 +32,4 @@ Arquivos CSV são muito fáceis de trabalhar programaticamente. Qualquer linguag
 A biblioteca `csv` fornece funcionalidade para ler e gravar em arquivos CSV. Projetado para funcionar imediatamente com arquivos CSV gerados em Excel, é facilmente adaptado para funcionar com uma variedade de formatos CSV. A biblioteca `csv` contém objetos o outros códigos para ler, gravar e processar dados de arquivos CSV.
 
 ---
+ *by Real Python Tutorials*
